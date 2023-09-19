@@ -1,0 +1,44 @@
+body {
+    background-color: aliceblue;
+    color: darkblue;
+}
+
+h2 {
+    color: crimson;
+}
+
+a {
+    color: crimson;
+}
+
+.cimkep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    width: 70%;
+}
+
+.kep {
+    width: 230px;
+    height: 153px;
+}
+
+.jobb {
+    float: right;
+}
+
+.keptabla {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.besorolas {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+

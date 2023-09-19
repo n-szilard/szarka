@@ -1,0 +1,21 @@
+td {
+    padding: 6px;
+    margin: 6px;
+}
+
+.elso {
+    width: 240px;
+    text-align: right;
+}
+
+.kozep {
+    text-align: center;
+}
+
+.tablacim {
+    background-color: crimson;
+}
+
+h2 {
+    color: aliceblue;
+}
